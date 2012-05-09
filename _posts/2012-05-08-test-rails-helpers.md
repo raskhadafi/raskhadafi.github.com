@@ -7,6 +7,8 @@ tags : [rails engine, mountable, testunit]
 
 # Howto test a rails helper in a mountable rails engine
 
+A short example how rails helpers can be tested with TestUnits.
+
     require 'test_helper'
 
     class DummyHelperTest < ActionView::TestCase
