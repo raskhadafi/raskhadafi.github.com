@@ -1,7 +1,7 @@
 ---
 layout: page
-title: Dev blog
-tagline: Raskhadfi's developer blog
+title: Welcome
+tagline: to my rails blog
 ---
 {% include JB/setup %}
 

@@ -1,7 +1,7 @@
 ---
 layout: post
-category : rails
-tags : [rails, gem, rails engine, mountable]
+category : ruby-on-rails
+tags : [gem, rails engine]
 ---
 {% include JB/setup %}
 

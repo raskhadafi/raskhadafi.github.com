@@ -1,7 +1,7 @@
 ---
 layout: post
-category : rails
-tags : [rails engine, mountable, test, testunit]
+category : ruby-on-rails
+tags : [rails engine, mountable, testunit]
 ---
 {% include JB/setup %}
 
