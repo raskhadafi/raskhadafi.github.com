@@ -1,7 +1,7 @@
 ---
 layout: post
-category : homebrew
-tags : [imagemagick, osx, osx 10.6.8]
+category : ruby-on-rails
+tags : [rails, assets, pipeline log]
 ---
 
 # Turn off the pipeline assets log
